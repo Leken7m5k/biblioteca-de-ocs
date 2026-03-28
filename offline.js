@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1774735996,
+	"version": 1774738647,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -34,6 +34,8 @@
 		"media/escape.ogg",
 		"media/aceptar.ogg",
 		"media/atras.ogg",
+		"media/lyza.ogg",
+		"media/kleyd.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
