@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1774669039,
+	"version": 1774735996,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -24,6 +24,11 @@
 		"images/baseopciones4-sheet0.png",
 		"images/baseopciones5-sheet0.png",
 		"images/sprite3-sheet0.png",
+		"images/set-sheet0.png",
+		"images/mpdelokleyd-sheet0.png",
+		"images/imagen-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/autordekleyd-sheet0.png",
 		"media/ost de biblioteca.ogg",
 		"media/sfo.ogg",
 		"media/escape.ogg",
