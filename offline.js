@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1774738647,
+	"version": 1774748760,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -29,6 +29,11 @@
 		"images/imagen-sheet0.png",
 		"images/sprite4-sheet0.png",
 		"images/autordekleyd-sheet0.png",
+		"images/casillaevelin-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/modeloevelin-sheet0.png",
+		"images/historiaevelin-sheet0.png",
+		"images/autoradeevelin-sheet0.png",
 		"media/ost de biblioteca.ogg",
 		"media/sfo.ogg",
 		"media/escape.ogg",
@@ -36,6 +41,7 @@
 		"media/atras.ogg",
 		"media/lyza.ogg",
 		"media/kleyd.ogg",
+		"media/evelin.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
